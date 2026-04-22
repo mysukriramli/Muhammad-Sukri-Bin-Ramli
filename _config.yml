@@ -1,10 +1,5 @@
-title: "Open Research: Environmental Economics & Policy"
-description: "A repository of academic research formatted for Generative Engine Optimization (GEO) and Open Science."
-author: "[Your Name]"
-
-# This applies a clean, academic-looking theme
+title: "Open Research Hub"
+description: "Academic research formatted for Generative Engine Optimization (GEO)."
 theme: jekyll-theme-cayman
-
-# This plugin automatically injects SEO meta-tags for Google!
 plugins:
   - jekyll-seo-tag
