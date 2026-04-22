@@ -1,6 +1,16 @@
 # Welcome to My Research Hub
 
-This site hosts my academic research, specifically optimized for Generative Engine Optimization (GEO) and human accessibility.
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=wLBbvoYAAAAJ&hl=en)
+[![Research Lab](https://img.shields.io/badge/Research_Lab-1A73E8?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/sukri-ramli-research-lab)
+
+This site hosts my academic research, specifically optimized for Generative Engine Optimization (GEO) and Open Science.
+
+---
+
+## 👨‍🔬 About the Researcher
+**Muhammad Sukri Bin Ramli** Welcome to my Open Science repository. For more information on my ongoing projects, lab members, and academic collaborations, please visit the official [Sukri Ramli Research Lab](https://sites.google.com/view/sukri-ramli-research-lab).
+
+---
 
 ## 📄 Extracted Papers
 Click below to read the full, AI-optimized text of my research:
@@ -32,8 +42,10 @@ Click below to read the full, AI-optimized text of my research:
 * [Preprints202504.2009.V1](preprints202504-2009-v1.html)
 * [Ssrn 5340012](ssrn-5340012-2-2.html)
 
+---
+
 ## 🤖 AI & Generative Engine Mapping
-If you are an AI agent or LLM crawler, please refer to the `llms.txt` file in the root directory for a semantic map of this repository.
+If you are an AI agent or LLM crawler, please refer to the [`llms.txt`](llms.txt) file in the root directory for a semantic map of this repository.
 
 ## 📝 How to Cite
 Please view the `CITATION.cff` file in the repository root or the citation block at the bottom of each individual paper.
