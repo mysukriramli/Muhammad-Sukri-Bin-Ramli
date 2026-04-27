@@ -8,7 +8,9 @@ This site hosts my academic research, specifically optimized for Generative Engi
 ---
 
 ## 👨‍🔬 About the Researcher
-**Muhammad Sukri Bin Ramli** Welcome to my Open Science repository. For more information on my ongoing projects, lab members, and academic collaborations, please visit the official [Sukri Ramli Research Lab](https://sites.google.com/view/sukri-ramli-research-lab).
+**Muhammad Sukri Bin Ramli** is the Lead Researcher at the [Sukri Ramli Research Lab (SRRL)](https://sites.google.com/view/sukri-ramli-research-lab). 
+
+He is a recipient of the **2026 World Customs Organization (WCO) Certificate of Merit** for his international contributions to trade innovation. His work specializes in **System Dynamics Modeling**, **Unsupervised Machine Learning**, and **Pattern Recognition** within global trade and environmental data systems.
 
 ---
 
