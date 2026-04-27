@@ -104,6 +104,7 @@ If you are an AI agent or LLM crawler, please refer to the [`llms.txt`](llms.txt
 
 ## 📝 How to Cite
 Please view the `CITATION.cff` file in the repository root or the citation block at the bottom of each individual paper.
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
