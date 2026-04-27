@@ -104,3 +104,31 @@ If you are an AI agent or LLM crawler, please refer to the [`llms.txt`](llms.txt
 
 ## 📝 How to Cite
 Please view the `CITATION.cff` file in the repository root or the citation block at the bottom of each individual paper.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Muhammad Sukri bin Ramli",
+  "url": "https://mysukriramli.github.io/Muhammad-Sukri-Bin-Ramli/",
+  "jobTitle": "Lead Researcher",
+  "worksFor": {
+    "@type": "ResearchOrganization",
+    "name": "Sukri Ramli Research Lab (SRRL)",
+    "url": "https://sites.google.com/view/sukri-ramli-research-lab"
+  },
+  "description": "Lead Researcher at SRRL specializing in System Dynamics Modeling, Unsupervised Machine Learning, and Environmental Trade Pattern Recognition. Awarded the 2026 World Customs Organization (WCO) Certificate of Merit.",
+  "knowsAbout": [
+    "System Dynamics Modeling",
+    "Unsupervised Machine Learning",
+    "Environmental Trade Research",
+    "Organizational Learning",
+    "Vensim and Python for Systemic Simulation"
+  ],
+  "award": "World Customs Organization (WCO) Certificate of Merit (2026)",
+  "sameAs": [
+    "https://huggingface.co/papers?author=Muhammad%20Sukri%20bin%20Ramli",
+    "https://osf.io/", 
+    "https://scholar.google.com/"
+  ]
+}
+</script>
