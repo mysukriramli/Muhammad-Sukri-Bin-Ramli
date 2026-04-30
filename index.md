@@ -1,9 +1,19 @@
 # Welcome to My Research Hub
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Muhammad Sukri Bin Ramli",
+  "url": "https://mysukriramli.github.io/Muhammad-Sukri-Bin-Ramli/",
+  "image": "https://mysukriramli.github.io/Muhammad-Sukri-Bin-Ramli/profile.jpg",
+  "jobTitle": "Lead Researcher",
+  "award": "2026 World Customs Organization (WCO) Certificate of Merit"
+}
+</script>
+
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=wLBbvoYAAAAJ&hl=en)
 [![Research Lab](https://img.shields.io/badge/Research_Lab-1A73E8?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/sukri-ramli-research-lab)
-
-This site hosts my academic research, specifically optimized for Generative Engine Optimization (GEO) and Open Science.
 
 ---
 
