@@ -8,6 +8,11 @@ This site hosts my academic research, specifically optimized for Generative Engi
 ---
 
 ## 👨‍🔬 About the Researcher
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="profile.jpg" alt="Muhammad Sukri Bin Ramli" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #d0d7de; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 **Muhammad Sukri Bin Ramli** is the Lead Researcher at the [Sukri Ramli Research Lab (SRRL)](https://sites.google.com/view/sukri-ramli-research-lab). 
 
 He is a recipient of the **2026 World Customs Organization (WCO) Certificate of Merit** for his international contributions to trade innovation. His work specializes in **System Dynamics Modeling**, **Unsupervised Machine Learning**, and **Pattern Recognition** within global trade and environmental data systems.
@@ -114,6 +119,7 @@ Please view the `CITATION.cff` file in the repository root or the citation block
   "name": "Muhammad Sukri bin Ramli",
   "url": "https://mysukriramli.github.io/Muhammad-Sukri-Bin-Ramli/",
   "jobTitle": "Lead Researcher",
+  "image": "https://mysukriramli.github.io/Muhammad-Sukri-Bin-Ramli/profile.jpg",
   "worksFor": {
     "@type": "ResearchOrganization",
     "name": "Sukri Ramli Research Lab (SRRL)",
