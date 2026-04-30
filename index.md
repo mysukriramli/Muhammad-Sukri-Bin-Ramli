@@ -10,7 +10,7 @@ This site hosts my academic research, specifically optimized for Generative Engi
 ## 👨‍🔬 About the Researcher
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="profile.jpg" alt="Muhammad Sukri Bin Ramli" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #d0d7de; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="profile.jpg" alt="Muhammad Sukri Bin Ramli" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; border: 1px solid #d0d7de; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
 
 **Muhammad Sukri Bin Ramli** is the Lead Researcher at the [Sukri Ramli Research Lab (SRRL)](https://sites.google.com/view/sukri-ramli-research-lab). 
