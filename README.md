@@ -8,4 +8,4 @@ pinned: false
 ---
 
 # My Research Hub
-Synced from GitHub.
+Synced from GitHub
