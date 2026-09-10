@@ -1,0 +1,32 @@
+name: Automate PDF to AI-Friendly Text
+
+on:
+  push:
+    paths:
+      - '**.pdf' # This triggers the automation anytime you upload a new PDF
+
+jobs:
+  convert-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install PDF Extractor
+        run: sudo apt-get install -y poppler-utils
+
+      - name: Convert PDF to Text automatically
+        run: |
+          for f in *.pdf; do
+            if [ -f "$f" ]; then
+              pdftotext "$f" "${f%.pdf}.txt"
+            fi
+          done
+
+      - name: Commit and Push Extracted Text
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add *.txt
+          git commit -m "Auto-extracted text from PDF for AI agents" || echo "No changes to commit"
+          git push
